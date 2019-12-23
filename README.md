@@ -1,3 +1,48 @@
+* Main Project: https://github.com/atingupta2005/profile
+
+* GitHub Profile Main Page: https://atingupta2005.github.io/profile/
+
+* I researched for creating my GITHub/Markdown resume on 23-Dec-2019 and came across a couple of interested projects as below:
+* GitHub Projects which I selected for Resume Building
+    * https://github.com/jagadeeshpalaniappan/jag-resume-builder
+    * modern-resume-theme
+    * resumecards
+    * jag-resume-builder
+    * best-resume-ever
+
+
+* After researching all, I decided to prepare my plain resume on MarkDown. 
+* I then used the project - https://github.com/mszep/pandoc_resume to create my resume. This project allows to convert the Markdown Resume to a variety of formats.
+* I used Visual Studio Code to prepare MD resume.
+
+* I then checked in this project to GitLab and also other projects I selected above.
+
+* I then done the setup of MD resume using steps below:
+* Setup Quick Portfolio on GitHub:
+    * https://github.com/evanca/quick-portfolio
+
+* My Resume repository is forked on the URL:
+    * https://github.com/atingupta2005/profile.git
+
+
+* My Final MD Resume Collections URL:
+    * https://atingupta2005.github.io/profile/
+
+
+* I also prepared the environment of all these projects in Docker and checked in the final Docker file to:
+    * <>
+
+* Next Steps:
+1. Prepare Resume using - resumecards
+1. Prepare MD resume such that it can be exported to Word Document without any distortion
+1. Prepare various versions of my resume for different purposes - Training, Consultancy, Lotus Domino, Python etc.
+1. Change my PP Pic
+1. Prepare my MD resume using all selected GitHub projects
+1. Create Small MD files to be reused in multiple profiles I created
+1. Implement pandoc to automatically profile the Word profile links on my resume on github.io
+1. 
+
+
 ## Developer Portfolio Landing Page Template
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
