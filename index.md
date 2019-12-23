@@ -1,2 +1,6 @@
-[Blockchain Profile](/Blockchain)
-[Python Profile](/Python)
+ * [Blockchain Profile](/profile/Blockchain)
+* [Python Profile](/profile/Python)
+* [ML Profile](/profile/ML)
+* [Consultant Profile](/profile/Consultant)
+* [R Programming Profile](/profile/RProgramming)
+* [Lotus Profile](/profile/Lotus)
