@@ -1,14 +1,11 @@
 Atin Gupta
+=========
 <img align="right" width="100" height="100"  src="https://raw.githubusercontent.com/atingupta2005/ProfileGlobal/master/Atin%20PP.png">
-============ 
 
 > - Blockchain, AI, Machine Learning Trainer
 > - Having 18+ years of total IT experience in Blockchain, AI,  & Azure technologies
 > - Providing technical training from last 7 years
-> - [Word Profile](https://drive.google.com/file/d/1GuUrPxwHuKUvxguWG9xXMoF7oz0z-QeZ)
-> - [PDF Profile](https://drive.google.com/file/d/1GuUrPxwHuKUvxguWG9xXMoF7oz0z-QeZ)
-> - [HTML Profile](https://drive.google.com/file/d/1GuUrPxwHuKUvxguWG9xXMoF7oz0z-QeZ)
-----
+> - [Word Profile (Without personal information)](https://drive.google.com/file/d/1GuUrPxwHuKUvxguWG9xXMoF7oz0z-QeZ)
 
 Contact Details
 ------------------
