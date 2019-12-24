@@ -30,7 +30,7 @@
 
 
 * I also prepared the environment of all these projects in Docker and checked in the final Docker file to:
-    * <>
+    * https://hub.docker.com/repository/docker/atingupta2005/resumebuilder
 
 * Next Steps:
 1. Prepare Resume using - resumecards

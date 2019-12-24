@@ -1,18 +1,42 @@
 Atin Gupta
 =========
+### Provides Corporate and Online Trainings
+
 <img align="right" width="100" height="100"  src="https://raw.githubusercontent.com/atingupta2005/profile/master/images/logo.png">
 
-> - Blockchain, AI, Machine Learning Trainer
-> - Having 18+ years of total IT experience in Blockchain, AI,  & Azure technologies
-> - Providing technical training from last 7 years
-> - [Word Profile (Without personal information)](https://drive.google.com/file/d/1GuUrPxwHuKUvxguWG9xXMoF7oz0z-QeZ)
+* Total IT experience: 18 years
+* Training Experience: 7 years
+* [Word Profile (Without personal information)](https://drive.google.com/file/d/1GuUrPxwHuKUvxguWG9xXMoF7oz0z-QeZ)
+
+
+Top Technical Skills
+--------------------
+* Blockchain
+    * Ethereum, Hyperledger, Solidity
+* Programming Languages
+    * Python, Spark, Pyspark, R Programming, Java
+* Artificial Intelligence
+    * Machine Learning, Deep Learning, NLP, Data Science
+* Frontend UI Development
+    * NodeJS, ReactJS
+* Version Management
+    * GIT, SVN, GitHub
+* DevOps
+    * Docker, Kubernetes
+* Cloud Computing
+    * Microsoft Azure, Databricks
+* Lotus Domino
+    * Development (Formula Language, Lotus Script, Java)
+    * Administration
+* Reporting Tools
+    * Power BI, QlikView, Tableau
 
 Contact Details
 ------------------
-> - <AtinGupta2005@gmail.com>
->- Ph: +919810707414
-> - Address - C1-32, Pocket 4, Kendriya Vihar 2, Sector 82, Noida - 201304
-> - [LinkedIn Profile](https://www.linkedin.com/in/profileatingupta/)
+* <AtinGupta2005@gmail.com>
+* Ph: +919810707414
+* Address - C1-32, Pocket 4, Kendriya Vihar 2, Sector 82, Noida - 201304
+* [LinkedIn Profile](https://www.linkedin.com/in/profileatingupta/)
 
 Publications
 ---------------
@@ -146,19 +170,6 @@ Training Feedbacks
 --------------------
 Please refer to below links for the feedbacks received from the client:
 * [Accenture in July 2019](https://drive.google.com/open?id=1iWaPWM3U7WzHvF7Gt0_6qZB4xVS_G9vZ)
-
-
-Top Technical Skills
---------------------
-* Blockchain, Ethereum, Hyperledger, Solidity
-* R Programming, Python, Machine Learning, NLP
-* Power BI, QlikView, Tableau
-* NodeJS, MongoDB, Java Script, GIT, Visual Studio Code
-* Flask Framework, Django Framework, Spark, Beautiful Soup, R Programming, Various Python testing modules and Web development modules
-* Docker, Kubernetes
-* Java, Groovy, Grails, J2EE
-* Lotus Domino 9 Development (Formula Language, Lotus Script, Java)
-* AWS, Cloud Computing
 
 Recent Development Projects
 -------------------
