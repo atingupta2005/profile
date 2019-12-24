@@ -4,3 +4,4 @@
 * [Consultant Profile](/profile/Consultant)
 * [R Programming Profile](/profile/RProgramming)
 * [Lotus Profile](/profile/Lotus)
+* [All Profile](/profile/Trainer)
