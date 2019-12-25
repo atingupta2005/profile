@@ -5,7 +5,8 @@ Atin Gupta
 <img align="right" width="100" height="100"  src="https://raw.githubusercontent.com/atingupta2005/profile/master/images/logo.png">
 
 * Total IT experience: 18 years
-* Training Experience: 7 years
+* Training Experience: 8 years
+* Number of Corporate Trainings Imparted: 40 to 45
 * [Word Profile (Without personal information)](https://drive.google.com/file/d/1GuUrPxwHuKUvxguWG9xXMoF7oz0z-QeZ)
 
 > Visit [ATT Trainings](https://atttrainings.com/) to apply for the trainings I provide
@@ -38,6 +39,7 @@ Contact Details
 * Ph: +919810707414
 * Address - C1-32, Pocket 4, Kendriya Vihar 2, Sector 82, Noida - 201304
 * [LinkedIn Profile](https://www.linkedin.com/in/profileatingupta/)
+* Base Location: Noida / Delhi NCR
 
 Publications
 ---------------
@@ -157,15 +159,25 @@ Training Experience
 
 1. Online Blockchain & Ethereum Development Training to 4 UK students in Feb-2018
 
-1. GIT Training to Mr. Pankaj Tripathi in Jan-2018
-
-1. Python Training in HP, Chennai in Sep-15 (5 Days)
+1. Lotus Domino training in HP, Chennai in Sep-15 (5 Days)
 
 1. Web Development Training in Infosys, Bhubaneswar in June-15 (5 Days)
 
-1. Lotus Domino Development in IBM Bangalore in May 2014 (20 Days)
+1. Lotus Admin training in Capgemini, Mumbai in Oct 2014 (8 Days)
 
-1. Kubernetes training in HCL, Noida Jan 2014 (JKT)
+1. Lotus Domino 8.5 Administration training in IBM Bangalore in Aug 2014 (5 Days)
+
+1. Lotus Domino Development training in IBM Bangalore in May 2014 (20 Days)
+
+1. Lotus Domino Administration training in HCL, Noida Jan 2014 (JKT)
+
+1. Lotus Domino Administration training in Reckitt Benckiser (India) Ltd – Gurgoan in Feb 2013 (5 Days)
+
+1. XPages and Mobile Apps development training in Accenture, Banglore in Dec 2012  (5 days)
+
+1. Lotus Domino Development training in R Systems Chennai in June 2011. (4 days)
+
+1. Lotus Domino Development training in ACS Xerox, Noida in 2011. (8 days)
 
 Training Feedbacks
 --------------------
