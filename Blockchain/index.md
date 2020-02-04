@@ -7,7 +7,7 @@ Atin Gupta
 * Total IT experience: 18 years
 * Training Experience: 8 years
 * Number of Corporate Trainings Imparted: 40 to 45
-* [Word Profile (Without personal information)](https://drive.google.com/file/d/1GuUrPxwHuKUvxguWG9xXMoF7oz0z-QeZ)
+* [Word Profile (Without personal information)](https://docs.google.com/document/d/1igjd9SJ4Jh3RNcsvURoULwTZ4y7u7vrUUTh3W2kbZB4)
 
 > Visit [ATT Trainings](https://atttrainings.com/) to apply for the trainings I provide
 
@@ -16,7 +16,7 @@ Top Technical Skills
 * Blockchain
     * Ethereum, Hyperledger, Solidity
 * Programming Languages
-    * Python, Spark, Pyspark, R Programming, Java
+    * Python, Spark, Pyspark, R Programming, Scala, Java
 * Artificial Intelligence
     * Machine Learning, Deep Learning, NLP, Data Science
 * Frontend UI Development
@@ -41,10 +41,15 @@ Contact Details
 * [LinkedIn Profile](https://www.linkedin.com/in/profileatingupta/)
 * Base Location: Noida / Delhi NCR
 
-Publications
+Publications (Youtube)
 ---------------
-* Youtube Recordings of the Training - [link](https://www.youtube.com/playlist?list=PLPOcVTCXqBGZ7i-ZMZvsaVRPulGVZVHAW)
-* My Video Introduction - [link](https://www.youtube.com/watch?v=BQggY0Bo0xc)
+* [Machine Learning using R Programming](https://www.youtube.com/playlist?list=PLPOcVTCXqBGbIHzwXgyc_wjk63_1uXm3l)
+
+* [Machine Learning using R Programming (Hindi)](https://www.youtube.com/playlist?list=PLPOcVTCXqBGZ7i-ZMZvsaVRPulGVZVHAW)
+
+* [Python and GIT Trainings](https://www.youtube.com/playlist?list=PLPOcVTCXqBGY5wBCfM6nv7vLOnowjvkRv)
+
+* [My Video Introduction](https://www.youtube.com/watch?v=BQggY0Bo0xc)
 
 Latest Acheivements
 ----------------
@@ -52,13 +57,15 @@ Latest Acheivements
 
 Latest Certifications
 ---------
-* Certified from IIT & IBM for **Blockchain Architecture, Design & Use Cases**
+* Certified from **Blockchain Training Alliance** in Blockchain
+
+* Certified from NPTEL & IBM for **Blockchain Architecture, Design & Use Cases**
 
 * Certified from IIT, Kanpur for **AI-ML Train the Trainer Development Program**
 
-* Certified from IIT, Madras - **Programming, Data Structures and Algorithms Using Python**
+* Certified from NPTEL, IIT Madras - **Programming, Data Structures and Algorithms Using Python**
 
-* Certified from IIT for **Introduction to Machine Learning**
+* Certified from NPTEL for **Introduction to Machine Learning**
 
 Working Experience
 ----------------
@@ -76,15 +83,31 @@ Working Experience
 
 Top Client worked with in last 4-5 years
 ---------
+- Tek Systems
+- Mercedes Benz
 - Accenture, CapGemini
 - HP, IBM
 - Infosys, Global Logic
 - HCL,  Reckitt Benckiser, R Systems
 - Hero Motors, ACS Xeros, Subros
 - Velocis, Imarticus
+- Sunlife Insurance
+- Espire Infolabs
 - and many more
 
-
+Top Vendors worked with in last 4-5 years
+---------
+- Tektaurus Education
+- TAAI Infotech
+- Imarticus
+- Vervenest Technologies
+- SFJ Business Solutions
+- Fennec Learning Private Limited 
+- Koenig Solutions
+- Indian Institute of Hardware Technology
+ - JK Technosoft Ltd
+ - Coalesce
+ - 
 Provided Consultancy
 ---------
 * Velocis Systems to enable the team on latest technologies.
@@ -100,46 +123,48 @@ Provided Consultancy
 
 Training Experience
 ----------
+1. "Python, Pyspark, Scala, Machine Learning" Advanced training for 8 days in Tek Systems in Jan 2020
+
+1. "Advanced Python Training" to Mercedes Benz, Bangalore in Jan 2020
+
 1. Hyperledger Fabric & Ethereum Blockchain training to Velocis in Oct 2019 for 15 days.
 
-1. “Network Automation using Python” training to Velocis Systems, Noida in Oct 2019.
+1. "Network Automation using Python" training to Velocis Systems, Noida in Oct 2019.
 
-1. “Azure Security” training to Capgemini, Online in Oct 2019
+1. "Azure Security" training to Capgemini, Online in Oct 2019
 
-1. Machine Learning using R training to Capgemini, Mumbai in Oct 2019.
+1. "Machine Learning using R" training to Capgemini, Mumbai in Oct 2019.
 
-1. Machine Learning using Pyspark & Artificial Intelligence (AI) training to Velocis Systems, Noida in Sep 2019
+1. "Machine Learning using Pyspark & Artificial Intelligence (AI)" training to Velocis Systems, Noida in Sep 2019
 
 1. Azure Fundamentals training to Velocis in Sep 2019 for 2 Days.
 
 1. Azure ML Services (Dp-100) training to Infosys in Aug 2019
 
-1. Machine Learning using R training to Capgemini, Noida in July 2019.
+1. "Machine Learning using R" training to Capgemini, Noida in July 2019.
 
-1. “Machine Learning Using R” training to Accenture, Gurgaon in July 2019.
+1. "Machine Learning Using R" training to Accenture, Gurgaon in July 2019.
 
-1. Data Science using R training to CAPGemeni, Bangalore in June 2019.
+1. "Data Science using R" training to CAPGemeni, Bangalore in June 2019.
 
-1. Ethereum / Solidity Development training to Velocis Systems, Noida in June 2019.
+1. "Ethereum / Solidity Development" training to Velocis Systems, Noida in June 2019.
 
 1. PySpark training to Velocis Systems, Noida in June 2019.
 
-1. Prepared 7 hours MOOC – “Linear Regression Models - Introduction to Linear Regression in R Programming” in June-19 for IIHT. 
+1. Prepared 7 hours MOOC – "Linear Regression Models - Introduction to Linear Regression in R Programming" in June-19 for IIHT. 
    * [Youtube Reference](https://www.youtube.com/playlist?list=PLPOcVTCXqBGbIHzwXgyc_wjk63_1uXm3l)
 
 1. Providing online training on ML using R Programming to Imarticus in June-19
 
-1. Data Science & Analytics with Python to CAPGEMINI, Noida in May-19
+1. "Machine Learning Using R" to CAPGEMINI, Noida in May-19
 
-1. Artificial Intelligence training to CAPGEMINI, Noida in May-19
+1. "Artificial Intelligence" training to CAPGEMINI, Noida in May-19
 
-1. Azure ML Services training to CAPGEMINI, Pune in May-19
+1. "Azure ML Services" training to CAPGEMINI, Pune in May-19
 
-1. Machine Learning with Python to CAPGEMINI, Mumbai in Apr-19
+1. "Machine Learning with Python" training to CAPGEMINI, Mumbai in Apr-19
 
-1. “Network Automation using Python” Training to Accenture in Mar 2019.
-
-1. Training on R Programming to Velocis Systems, Noida in Feb-2019
+1. Python Training to Accenture in Mar 2019.
 
 1. Python training to Capgemini, Bangalore in Jan 2019
 
@@ -149,7 +174,7 @@ Training Experience
 
 1. Blockchain Training to Tektaurus Education in Nov-2018
 
-1. Artificial Intelligence & Machine Learning using Python Training to Accenture in Oct 2018.
+1. Python Training to Accenture in Oct 2018.
 
 1. Machine Learning using PySpark Training to Espire Infolabs Pvt Ltd in Sep 2018.
 
